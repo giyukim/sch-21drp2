@@ -3,10 +3,9 @@
 ---
 
 ## Posts
-* VPython
   1. [[09/02/21] VPython #1][post01] 
 
-<br><br>
+<br>
 
 ---
 All Sources and Works are subject to the following License: [GNU Affero General Public License v3.0][gnuagplv3]

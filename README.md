@@ -17,4 +17,4 @@ All Sources and Works are subject to the following License: [GNU Affero General 
 [post01]: posts/VPython/210902-1.md
 [post02]: posts/VPython/210909-1.md
 [post03]: posts/VPython/210916-1.md
-[post04]: posts/Vpython/210930-1.md
+[post04]: posts/VPython/210930-1.md
